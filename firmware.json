@@ -4,5 +4,11 @@
     "version": "8.40.00.57_1.0.0+0",
     "hwType": "LP_EM_CC2340R5",
     "imageType": "mcuboot"
+  },
+  {
+    "fileName": "LP_EM_CC2340R5/8_40_00_57_eng/ON_Chip_OAD_0x38000.bin",
+    "version": "8.40.00.57_1.0.0+0",
+    "hwType": "LP_EM_CC2340R5",
+    "imageType": "mcuboot"
   }
 ]
